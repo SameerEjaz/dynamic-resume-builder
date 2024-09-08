@@ -1,0 +1,17 @@
+// Had to get extrnal help in this file
+{
+    "compilerOptions": {
+      "target": "es6", 
+      "module": "commonjs", 
+      "outDir": "./dist", 
+      "rootDir": "./", 
+      "strict": true 
+    },
+    "include": [
+      "./script.ts" 
+    ],
+    "exclude": [
+      "node_modules" 
+    ]
+  }
+  
